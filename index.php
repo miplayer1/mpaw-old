@@ -7,7 +7,7 @@
 		<![endif]-->
 		<link rel ="stylesheet" href="style.css"/>
 		<!-- favicon -->
-		<link rel="shortcut icon" href="<!--lien favicon ici-->">
+		<link rel="shortcut icon" href="images/favicon.svg">
 		<title>Ma petite agence</title>
 	</head>
 	<body>

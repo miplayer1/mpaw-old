@@ -2,7 +2,12 @@
 <html>
 	<head>
 		<meta charset="utf-8">
+		<!--[if lt IE 9]>
+		<script src="http://github.com/aFarkas/html5shiv/blob/master/dist/html5shiv.js"></script>
+		<![endif]-->
 		<link rel ="stylesheet" href="style.css"/>
+		<!-- favicon -->
+		<link rel="shortcut icon" href="<!--lien favicon ici-->">
 		<title>Ma petite agence</title>
 	</head>
 	<body>
@@ -18,6 +23,7 @@
 		</header>
 		<!-- conteneur des sections -->
 		<div class="content">
+		
 		<!--section 1-->	
 			<section id="sect1">
 				<!--logo + flèche vers le bas-->

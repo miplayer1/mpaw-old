@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="132.09"
-   height="138.36"
+   width="16"
+   height="16"
    id="svg4347"
    version="1.1"
    inkscape:version="0.48.4 r"
-   sodipodi:docname="favicon.svg">
+   sodipodi:docname="favicon.ico.svg">
   <defs
      id="defs4349">
     <radialGradient
@@ -23,7 +23,7 @@
        xlink:href="#linearGradient7253-4"
        id="radialGradient9054"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,8.9136403e-5)"
+       gradientTransform="translate(0,8.9136402e-5)"
        cx="176"
        cy="307.36218"
        fx="176"
@@ -49,9 +49,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="375"
-     inkscape:cy="95.01896"
+     inkscape:zoom="4.9944643"
+     inkscape:cx="47.498777"
+     inkscape:cy="44.744584"
      inkscape:document-units="px"
      inkscape:current-layer="g8848"
      showgrid="false"
@@ -68,7 +68,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,13 +76,13 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-913.98832)">
+     transform="translate(0,-1036.3483)">
     <g
        style="display:inline"
        id="g8848"
        transform="matrix(0.15423729,0,0,0.15423729,-9.421482,488.22513)">
       <g
-         transform="matrix(2.9477524,0,0,2.9477524,176.13408,2548.8833)"
+         transform="matrix(0.48327187,0,0,0.48327187,61.913395,3488.9352)"
          id="g8787">
         <path
            style="fill:none;stroke:none"
